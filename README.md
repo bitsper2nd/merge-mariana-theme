@@ -7,7 +7,7 @@ Requires [related color](https://github.com/bitsper2nd/sublime-mariana-scheme) s
 ## Install
 
 Assuming the required color scheme is installed, git clone the project or download it into your Sublime Merge `Packages`
-folder as `Mariana Theme`. Edit your merge `Preferences.sublime-settings` file to use the Monokai theme:
+folder as `Mariana Theme`. Edit your merge `Preferences.sublime-settings` file to use the Mariana theme:
 
 ```
     "theme": "Mariana Plus (Cool).sublime-theme"
