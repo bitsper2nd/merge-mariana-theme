@@ -67,14 +67,14 @@
         "commit_summary_fg-secondary": "var(text-light)",
         "commit_color_count": 8,
 
-        "commit_edge_0": "var(cyan)",
+        "commit_edge_0": "var(blue)",
         "commit_edge_1": "var(purple)",
         "commit_edge_2": "var(pink)",
         "commit_edge_3": "var(orange)",
         "commit_edge_4": "var(yellow)",
         "commit_edge_5": "var(green)",
         "commit_edge_6": "var(red)",
-        "commit_edge_7": "var(blue)",
+        "commit_edge_7": "var(cyan)",
 
         // Annotations
         "commit_annotation_fg": "var(text)",
@@ -126,16 +126,16 @@
         "tag_ann_bg": "var(yellow)",
         "tag_ann_opacity": 0.4,
 
-        "file_ann_fg": "var(text)",
-        "file_ann_bg": "color(var(white) a(0.2))",
+        "file_ann_fg": "var(--background)",
+        "file_ann_bg": "var(blue)",
 
         "submodule_ann_fg": "var(text)",
         "submodule_ann_bg": "color(var(white) a(20%))",
         "submodule_light_ann_fg": "var(text)",
         "submodule_light_ann_bg": "color(var(white) a(20%))",
 
-        "inserted_ann_bg": "color(var(green) blend(var(darken) 35%))",
-        "deleted_ann_bg": "color(var(pink) blend(var(darken) 35%))",
+        "inserted_ann_bg": "color(var(cyan) a(0.50))",
+        "deleted_ann_bg": "color(var(red) a(0.50))",
 
         // Diff headers
         "file_diff_shadow": "color(black a(0.5))",
@@ -150,12 +150,12 @@
         "hunk_header_bg": "color(var(--background) l(+ 12%))",
 
         "deleted_icon_fg": "var(text)",
-        "deleted_header_bg": "var(dark_red)",
-        "deleted_header_bg-hover": "color(var(dark_red) l(+ 5%))",
+        "deleted_header_bg": "var(red)",
+        "deleted_header_bg-hover": "color(var(red) l(+ 5%))",
 
         "unmerged_icon_fg": "var(text)",
-        "unmerged_header_bg": "var(dark_blue)",
-        "unmerged_header_bg-hover": "color(var(dark_blue) l(+ 3%))",
+        "unmerged_header_bg": "var(blue)",
+        "unmerged_header_bg-hover": "color(var(blue) l(+ 3%))",
 
         "recent_icon_fg": "var(yellow)",
         "recent_icon_bg": "transparent",
