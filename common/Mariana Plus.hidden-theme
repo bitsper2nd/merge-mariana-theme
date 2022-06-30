@@ -77,9 +77,9 @@
         "commit_edge_7": "var(cyan)",
 
         // Annotations
-        "commit_annotation_fg": "var(text)",
+        "commit_annotation_fg": "var(--background)",
         "commit_annotation_fg_inverted": "var(--background)",
-        "commit_annotation_bg": "color(white a(20%))",
+        "commit_annotation_bg": "var(cyan)",
 
         "commit_annotation_fg_0_border": "var(commit_edge_0)",
         "commit_annotation_fg_1_border": "var(commit_edge_1)",
@@ -134,7 +134,7 @@
         "submodule_light_ann_fg": "var(text)",
         "submodule_light_ann_bg": "color(var(white) a(20%))",
 
-        "inserted_ann_bg": "color(var(cyan) a(0.50))",
+        "inserted_ann_bg": "color(var(green) a(0.50))",
         "deleted_ann_bg": "color(var(red) a(0.50))",
 
         // Diff headers
