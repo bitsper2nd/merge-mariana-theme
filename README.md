@@ -1,8 +1,8 @@
 # Theme - Mariana Plus
 
-Mariana theme for Sublime Merge 2.
+[Mariana](https://github.com/n0rmand0/Mariana-Pro-color-theme) theme for Sublime Merge 2.
 
-Requires [related color](https://github.com/bitsper2nd/sublime-mariana-scheme) scheme. This implementation of Monokai uses the Sublime Merge Theme as a template with the Mariana color palette.
+This implementation of Monokai uses the Sublime Merge Theme as a template with the Mariana color palette.
 
 ## Install
 
@@ -27,7 +27,7 @@ Mariana Plus (Warm)
 
 ![warm](screenshots/warm.png "Mariana Plus (Warm)")
 
-## Extra
+## Quick tip
 
 Quickly switch between themes on Sublime Merge with the command palette:
 - Open a new file
@@ -59,5 +59,10 @@ Quickly switch between themes on Sublime Merge with the command palette:
         },
     },
 ```
+
 - Save the file as `Default.sublime-commands` in `Sublime Merge/Packages/User` folder.
 - Open the command palette and type **Change**.
+
+## Extra
+
+Here is the repo of the [color scheme](https://github.com/bitsper2nd/sublime-mariana-scheme) for Sublime Text. Also checkout my [other theme](https://github.com/bitsper2nd/merge-monokai-theme) based on the Monokai color palette.
