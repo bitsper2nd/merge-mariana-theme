@@ -364,6 +364,26 @@
                 "foreground": "var(red)",
                 "font_style": 0,
                 "scope": "message.error"
+              },
+              {
+                "scope": "diff.deleted",
+                "background": "color(var(background) l(+ 3%)",
+                "foreground_adjust": "l(+ 5%)"
+              },
+              {
+                "scope": "diff.deleted.char",
+                "background": "color(var(red) a(30%))",
+                "foreground_adjust": "l(+ 10%)"
+              },
+              {
+                "scope": "diff.inserted",
+                "background": "color(var(background) l(+ 3%)",
+                "foreground_adjust": "l(+ 5%)"
+              },
+              {
+                "scope": "diff.inserted.char",
+                "background": "color(var(green) a(30%))",
+                "foreground_adjust": "l(+ 10%)"
               }
             ]
           }
