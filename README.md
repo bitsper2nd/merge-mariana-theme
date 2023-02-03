@@ -34,30 +34,32 @@ Quickly switch between themes on Sublime Merge with the command palette:
 - Paste the following code:
 ```
 // Change Theme
-    {
-        "caption": "Change Theme: Cool",
-        "command": "set_preference",
-        "args": {
-            "setting": "theme",
-            "value": "Mariana Plus (Cool).sublime-theme"
+    [
+        {
+            "caption": "Change Theme: Mariana",
+            "command": "set_preference",
+            "args": {
+                "setting": "theme",
+                "value": "Mariana Plus (Cool).sublime-theme"
+            },
         },
-    },
-    {
-        "caption": "Change Theme: Neutral",
-        "command": "set_preference",
-        "args": {
-            "setting": "theme",
-            "value": "Mariana Plus (Neutral).sublime-theme"
+        {
+            "caption": "Change Theme: Neutral",
+            "command": "set_preference",
+            "args": {
+                "setting": "theme",
+                "value": "Mariana Plus (Neutral).sublime-theme"
+            },
         },
-    },
-    {
-        "caption": "Change Theme: Warm",
-        "command": "set_preference",
-        "args": {
-            "setting": "theme",
-            "value": "Mariana Plus (Warm).sublime-theme"
+        {
+            "caption": "Change Theme: Warm",
+            "command": "set_preference",
+            "args": {
+                "setting": "theme",
+                "value": "Mariana Plus (Warm).sublime-theme"
+            },
         },
-    },
+    ]
 ```
 
 - Save the file as `Default.sublime-commands` in `Sublime Merge/Packages/User` folder.
