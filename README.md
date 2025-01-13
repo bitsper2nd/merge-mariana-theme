@@ -17,15 +17,15 @@ folder as `Mariana Theme`. Edit your merge `Preferences.sublime-settings` file t
 
 Mariana Plus (Cool)
 
-![cool](https://1drv.ms/i/s!AtOYPzGHWNu2gkFQ5-0S46fGZWNH?embed=1&width=1920&height=1080 "Mariana Plus (Cool)")
+![cool](https://github.com/user-attachments/assets/4ed46338-60e5-4899-8ddf-6d565d1d6131 "Mariana Plus (Cool)")
 
 Mariana Plus (Neutral)
 
-![neutral](https://1drv.ms/i/s!AtOYPzGHWNu2gkCkVcfnORk77O5k?embed=1&width=1920&height=1080 "Mariana Plus (Neutral)")
+![neutral](https://github.com/user-attachments/assets/51f2025e-3e8f-4529-8639-2154554ffbb2 "Mariana Plus (Neutral)")
 
 Mariana Plus (Warm)
 
-![warm](https://1drv.ms/i/s!AtOYPzGHWNu2gkJ3tlM_PjzMJBG0?embed=1&width=1920&height=1080 "Mariana Plus (Warm)")
+![warm](https://github.com/user-attachments/assets/e444b49d-6ba9-405d-9f08-d92c4a7fc98c "Mariana Plus (Warm)")
 
 ## Quick tip
 
