@@ -27,44 +27,6 @@ Mariana Plus (Warm)
 
 ![warm](https://github.com/user-attachments/assets/e444b49d-6ba9-405d-9f08-d92c4a7fc98c "Mariana Plus (Warm)")
 
-## Quick tip
-
-Quickly switch between themes on Sublime Merge with the command palette:
-- Open a new file
-- Paste the following code:
-```
-// Change Theme
-    [
-        {
-            "caption": "Change Theme: Mariana",
-            "command": "set_preference",
-            "args": {
-                "setting": "theme",
-                "value": "Mariana Plus (Cool).sublime-theme"
-            },
-        },
-        {
-            "caption": "Change Theme: Neutral",
-            "command": "set_preference",
-            "args": {
-                "setting": "theme",
-                "value": "Mariana Plus (Neutral).sublime-theme"
-            },
-        },
-        {
-            "caption": "Change Theme: Warm",
-            "command": "set_preference",
-            "args": {
-                "setting": "theme",
-                "value": "Mariana Plus (Warm).sublime-theme"
-            },
-        },
-    ]
-```
-
-- Save the file as `Default.sublime-commands` in `Sublime Merge/Packages/User` folder.
-- Open the command palette and type **Change**.
-
 ## Extra
 
 Here is the repo of the [color scheme](https://github.com/bitsper2nd/sublime-mariana-scheme) for Sublime Text. Also checkout my [other theme](https://github.com/bitsper2nd/merge-monokai-theme) based on the Monokai color palette.
