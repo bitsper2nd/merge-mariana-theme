@@ -10,7 +10,7 @@ Assuming the required color scheme is installed, git clone the project or downlo
 folder as `Mariana Theme`. Edit your merge `Preferences.sublime-settings` file to use the Mariana theme:
 
 ```
-    "theme": "Mariana Plus (Cool).sublime-theme"
+    "theme": "Mariana Plus (Cool).sublime-merge-theme"
 ```
 
 ## Screenshots
