@@ -10,22 +10,22 @@ Assuming the required color scheme is installed, git clone the project or downlo
 folder as `Mariana Theme`. Edit your merge `Preferences.sublime-settings` file to use the Mariana theme:
 
 ```
-    "theme": "Mariana Plus (Cool).sublime-merge-theme"
+    "theme": "Mariana Max (Blue).sublime-merge-theme"
 ```
 
 ## Screenshots
 
-Mariana Plus (Cool)
+Mariana Max (Blue)
 
-![cool](https://github.com/user-attachments/assets/4ed46338-60e5-4899-8ddf-6d565d1d6131 "Mariana Plus (Cool)")
+![cool](https://github.com/user-attachments/assets/4ed46338-60e5-4899-8ddf-6d565d1d6131 "Mariana Max (Blue)")
 
-Mariana Plus (Neutral)
+Mariana Max (Grey)
 
-![neutral](https://github.com/user-attachments/assets/51f2025e-3e8f-4529-8639-2154554ffbb2 "Mariana Plus (Neutral)")
+![neutral](https://github.com/user-attachments/assets/51f2025e-3e8f-4529-8639-2154554ffbb2 "Mariana Max (Grey)")
 
-Mariana Plus (Warm)
+Mariana Max (Brown)
 
-![warm](https://github.com/user-attachments/assets/e444b49d-6ba9-405d-9f08-d92c4a7fc98c "Mariana Plus (Warm)")
+![warm](https://github.com/user-attachments/assets/e444b49d-6ba9-405d-9f08-d92c4a7fc98c "Mariana Max (Brown)")
 
 ## Extra
 
