@@ -1,6 +1,14 @@
 {
     "name": "Mariana Max (Blue)",
     "extends": "Mariana Max.hidden-theme",
-    "variables": {},
-    "rules": []
+    "variables": {
+        "tag_ann_bg": "#FAB763",
+        "tag_ann_fg": "#343D46"
+    },
+    "rules": [
+        {
+            "class": "commit_summary_label",
+            "font.bold": true
+        }
+    ]
 }
